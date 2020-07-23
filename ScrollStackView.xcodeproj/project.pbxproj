@@ -12,6 +12,7 @@
 		38CC533C24C97EC6000F2C43 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38CC533B24C97EC6000F2C43 /* ViewController.swift */; };
 		38CC534124C97EC8000F2C43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38CC534024C97EC8000F2C43 /* Assets.xcassets */; };
 		38CC534424C97EC8000F2C43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38CC534224C97EC8000F2C43 /* LaunchScreen.storyboard */; };
+		7645B1DA24C98AEB005CA3B5 /* ScrollStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7645B1D924C98AEB005CA3B5 /* ScrollStackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		38CC534024C97EC8000F2C43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38CC534324C97EC8000F2C43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		38CC534524C97EC8000F2C43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7645B1D924C98AEB005CA3B5 /* ScrollStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollStackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				38CC533724C97EC6000F2C43 /* AppDelegate.swift */,
 				38CC533924C97EC6000F2C43 /* SceneDelegate.swift */,
 				38CC533B24C97EC6000F2C43 /* ViewController.swift */,
+				7645B1D924C98AEB005CA3B5 /* ScrollStackView.swift */,
 				38CC534024C97EC8000F2C43 /* Assets.xcassets */,
 				38CC534224C97EC8000F2C43 /* LaunchScreen.storyboard */,
 				38CC534524C97EC8000F2C43 /* Info.plist */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7645B1DA24C98AEB005CA3B5 /* ScrollStackView.swift in Sources */,
 				38CC533C24C97EC6000F2C43 /* ViewController.swift in Sources */,
 				38CC533824C97EC6000F2C43 /* AppDelegate.swift in Sources */,
 				38CC533A24C97EC6000F2C43 /* SceneDelegate.swift in Sources */,
