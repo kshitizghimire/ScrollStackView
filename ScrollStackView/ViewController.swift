@@ -9,7 +9,7 @@
 import UIKit
 
 final class ViewController: UIViewController {
-    
+
     override func loadView() {
         let contentView = ScrollStackView()
         contentView.backgroundColor = .red
